@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+.card-title{
+    margin-bottom: 5%;
+}
+.card{
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 4%;
+    margin: 5%;
+}
+img{
+    width: 70%;
+    margin: 15%;
+}
+#img{
+    justify-content: center;
+    text-align: center;
+}
+button{
+    margin-top: 50%;
+    margin-bottom: 50%;
+}
+table{
+    margin: 3%;
+}
+thead{
+    background-color: aqua;
+}
